@@ -1,0 +1,6 @@
+url: https://github.com/WU079/dsh-douyin-subagent
+name: WU079/dsh-douyin-subagent
+category: usage
+description:
+  en: Runs a Douyin subagent that browses videos and comments and reports back, with dy_* tools for posting and a valley-time daily quota timer.
+  zh: 让子代理在谷时刷抖音、读评论并汇报，附带发作品/评论的 dy_* 工具与每日配额定时。
